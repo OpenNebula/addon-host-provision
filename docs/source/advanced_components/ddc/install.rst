@@ -14,7 +14,7 @@ The requirements:
 Supported platforms:
 
 * CentOS/RHEL 7
-* Ubuntu 14.04, 16.04, 18.04
+* Ubuntu 16.04, 18.04
 * Debian 9
 
 1. Tools

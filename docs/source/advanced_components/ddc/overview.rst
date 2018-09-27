@@ -22,7 +22,7 @@ Features / limitations
 
 Supported IaaS providers:
   * EC2 (``i3.metal`` instance)
-  * Packet
+  * Packet Host
 
 Deployment types:
   * deploy single physical host and add into existing cluster
@@ -33,4 +33,4 @@ Configuration types:
 Version history
 ===============
 
-* 5.6.0 (September 2018) - first prototype release
+* 5.6.0 (September 27, 2018) - first prototype release
