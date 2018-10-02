@@ -24,3 +24,8 @@ Follow the dedicated [documentation](https://docs.opennebula.org/addon/host-prov
 ## Development
 
 To contribute bug patches, you can use the GitHub Pull Request model. It is assumed that code and documentation are contributed under the Apache License 2.0.
+
+## Authors
+
+* Main developer: Alejandro Huertas (ahuertas@opennebula.systems)
+* [OpenNebula Core Team](https://github.com/OpenNebula)
